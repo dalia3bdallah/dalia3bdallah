@@ -1,7 +1,7 @@
 ## 👋 Hi there 
-I'm a UI developer with +8 years of experience and proven skills in:
-- Converting designs and Prototypes into responsive web pages, Worked on ERP systems, web applications, landing pages and Dashboards.
-- Google UX Design Professional Certified
+I'm a <b>UI developer </b> with <b> +8 years </b> of experience and proven skills in:
+<br> - Converting designs and Prototypes into responsive web pages , Worked on <ins>ERP systems </ins> , <ins>landing pages </ins> and <ins>Dashboards</ins>.
+<br> - <b> Google UX Design Professional Certified</b>
 
 ---
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Technical Skills / Tools.</h2>
@@ -40,7 +40,7 @@ I'm a UI developer with +8 years of experience and proven skills in:
 <ul>
   <li><a href="https://dalia3bdallah.github.io/vehicle-v0.2/">
   <b> vehicle details Page</b></a>
-   - <i>UI assignment using react. I’ve used [SHADcn-ui, Apexcharts, React-router, Tailwindcss,..]
+   - <i>UI assignment using react. I’ve used [SHADcn-ui, Apexcharts, React-router, Tailwindcss,..] - 
 </i>
 <a href="https://github.com/dalia3bdallah/vehicle-v0.2">GitHub Repository</a>
    </li>
