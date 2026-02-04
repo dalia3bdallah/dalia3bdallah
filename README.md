@@ -18,7 +18,7 @@ I'm a UI developer with +8 years of experience and proven skills in:
 
 -----------------------
 
-# My latest
+# 🌱 My latest
 <h3> Angular  :</h3>
 <ul>
   <li><a href="https://dalia3bdallah.github.io/prim-01/home">
@@ -42,7 +42,7 @@ I'm a UI developer with +8 years of experience and proven skills in:
   <b> vehicle details Page</b></a>
    - <i>UI assignment using react. I’ve used [SHADcn-ui, Apexcharts, React-router, Tailwindcss,..]
 </i>
-<br> <a href="https://github.com/dalia3bdallah/vehicle-v0.2">GitHub Repository</a>
+<a href="https://github.com/dalia3bdallah/vehicle-v0.2">GitHub Repository</a>
    </li>
 
 </ul>
