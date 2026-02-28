@@ -12,7 +12,7 @@ I'm a <b>UI developer </b> with <b> +8 years </b> of experience and proven skill
 <br> - Use   <img alt="Figma" src="https://img.shields.io/badge/-Figma-764ABC?style=flat-square&logo=Figma&logoColor=white" /> , <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-007ACC?style=flat-square&logo=Photoshop&logoColor=white" /> 
 <br> - Also, used   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-1a73e8?style=flat-square&logo=Adobe_XD&logoColor=white" /> ,   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-db7092?style=flat-square&logo=illustrator&logoColor=white" /> , <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-EC4A3F?style=flat-square&logo=InDesign&logoColor=white" /> 
 <br> - Familiar with   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-5849BE?style=flat-square&logo=WordPress&logoColor=white" /> , <img alt="Blogger" src="https://img.shields.io/badge/-Blogger-EC4A3F?style=flat-square&logo=Blogger&logoColor=white" /> , <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-13aa52?style=flat-square&logo=Shopify&logoColor=white" /> 
-# 🌱 My latest
+# 🌱 My latest Projects
 <h3> Angular  :</h3>
 <ul>
   <li><a href="https://dalia3bdallah.github.io/prim-01/home">
